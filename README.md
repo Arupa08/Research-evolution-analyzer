@@ -25,8 +25,8 @@ Takes a researcher's name or Semantic Scholar ID and returns a full analysis of 
 
 | | Link |
 |---|---|
-| 🌐 Frontend | `https://YOURUSERNAME.github.io/research-evolution-analyzer/index.html` |
-| ⚙️ API Docs | `https://your-app.onrender.com/docs` |
+| 🌐 Frontend | `https://Arupa08.github.io/Research-evolution-analyzer/index.html` |
+| ⚙️ API Docs | `https://research-evolution-analyzer.onrender.com/docs` |
 
 > ⚠️ First load may take 30s on free tier (Render cold start)
 
