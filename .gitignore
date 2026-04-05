@@ -1,0 +1,8 @@
+backend2/venv/
+backend2/cache/
+backend2/logs/
+backend2/__pycache__/
+.env
+*.pyc
+*.dll
+*.pyd
