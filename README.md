@@ -210,6 +210,3 @@ Full Swagger docs at `/docs`
 
 ---
 
-## 📄 License
-
-MIT License
